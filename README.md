@@ -1,4 +1,4 @@
-<img width="1823" height="938" alt="Capture GPA" src="https://github.com/user-attachments/assets/b2dc5e57-5ae9-4e63-8657-afdca6b444dd" />
+
 # Graphical-Password-Authentication-Prototype
 
 We the team of six developed Graphical Password Authentication System || Hackathon
@@ -18,4 +18,4 @@ We the team of six developed Graphical Password Authentication System || Hackath
 
 ## Screenshots
 
-
+<img width="1823" height="938" alt="Capture GPA" src="https://github.com/user-attachments/assets/b2dc5e57-5ae9-4e63-8657-afdca6b444dd" />
